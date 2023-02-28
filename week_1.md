@@ -4,9 +4,9 @@ This week I decided to make my website using HTML and CSS to refresh myself on h
 
 
 ## Resources and Links
-https://www.w3schools.com
-https://aws.amazon.com
-https://www.digitalocean.com
+https://www.w3schools.com  
+https://aws.amazon.com  
+https://www.digitalocean.com  
 
 
 ## Estimated hours
