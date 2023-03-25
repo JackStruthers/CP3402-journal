@@ -3,10 +3,10 @@
 This week I learnt how to create a local host for my windows machine
 
 ## Resources and Links
-https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/
-https://wpastra.com/guides-and-tutorials/install-wordpress-on-wamp/
-https://wpmudev.com/blog/vagrant-wordpress-test-environment/
-https://themeisle.com/blog/local-wordpress-development-using-docker/
+https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/  
+https://wpastra.com/guides-and-tutorials/install-wordpress-on-wamp/  
+https://wpmudev.com/blog/vagrant-wordpress-test-environment/  
+https://themeisle.com/blog/local-wordpress-development-using-docker/  
 
 ## Estimated hours
 I spent about 2 and half hours experimenting with a couple of ways to host before settling on WAMP
